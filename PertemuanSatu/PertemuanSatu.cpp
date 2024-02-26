@@ -14,6 +14,8 @@ int main()
     // end
 
     double nJari, nLuas;
+    cout << "Masukkan jejari = ";
+    cin >> nJari;
 
 
 
