@@ -13,6 +13,8 @@ int main()
         // display 'Luasnya= '+ nLuas
     // end
 
+    double nJari, nLuas;
+
 
 
 
