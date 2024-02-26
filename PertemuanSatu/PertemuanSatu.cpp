@@ -18,6 +18,8 @@ int main()
     cin >> nJari;
     nLuas = 3.14 * nJari * nJari;
     cout << "Luasnya = " << nLuas << endl;
+    system("Pause");
+
 
 
 
