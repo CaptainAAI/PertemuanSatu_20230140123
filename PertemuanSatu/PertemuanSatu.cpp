@@ -16,6 +16,7 @@ int main()
     double nJari, nLuas;
     cout << "Masukkan jejari = ";
     cin >> nJari;
+    nLuas = 3.14 * nJari * nJari;
 
 
 
