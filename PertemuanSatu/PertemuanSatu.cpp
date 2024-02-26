@@ -17,6 +17,7 @@ int main()
     cout << "Masukkan jejari = ";
     cin >> nJari;
     nLuas = 3.14 * nJari * nJari;
+    cout << "Luasnya = " << nLuas << endl;
 
 
 
